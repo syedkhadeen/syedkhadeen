@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I’m Syed Khadeen<br><br>I’m a Software Engineering student (7th semester) at FAST-NUCES and a full-stack developer with hands-on experience building real-world web applications and backend systems.<br><br>I primarily focus on backend and full-stack development, working across multiple ecosystems including ASP.NET Core (Web API & MVC), Node.js / NestJS, and Python (FastAPI, Django). I enjoy designing clean, scalable, and well-structured APIs rather than just making things work.<br><br>On the frontend, I’ve worked with React as part of full-stack (MERN) applications. My experience includes building RESTful APIs, implementing authentication and role-based access control, and developing complete CRUD systems.<br><br>I’ve worked with SQL Server, PostgreSQL, and MongoDB, and I’m comfortable handling structured and nested JSON data across services. I also have hands-on experience with Docker, docker-compose, basic CI/CD workflows, and AWS.<br><br>I’m particularly interested in backend architecture, API design, and making systems production-ready.
 
 
